@@ -1,0 +1,1 @@
+tsc -w  实时编译index.ts为index.js
