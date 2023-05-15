@@ -1,0 +1,1 @@
+import('./bootstrap') // 引入bootstrap让他变成异步的
